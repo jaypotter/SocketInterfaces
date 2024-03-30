@@ -1,0 +1,20 @@
+{
+    "name": "potter/socket-interfaces",
+    "description": "PHP Socket Interface Collection",
+    "type": "metapackage",
+    "require": {
+        "php": "^8.3"
+    },
+    "suggest": {
+        "potter/contracts": "dev-main",
+        "potter/framework": "dev-main"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jay Potter",
+            "email": "j@ypotter.ca"
+        }
+    ],
+    "minimum-stability": "dev"
+}
