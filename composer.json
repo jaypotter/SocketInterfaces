@@ -9,6 +9,7 @@
         "potter/socket-server-interface": "dev-main"
     },
     "suggest": {
+        "potter/socket": "dev-main",
         "potter/contracts": "dev-main",
         "potter/framework": "dev-main"
     },
