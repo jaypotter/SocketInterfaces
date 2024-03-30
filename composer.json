@@ -4,7 +4,8 @@
     "type": "metapackage",
     "require": {
         "php": "^8.3",
-        "potter/socket-aware-interface": "dev-main"
+        "potter/socket-aware-interface": "dev-main",
+        "potter/socket-client-interface": "dev-main"
     },
     "suggest": {
         "potter/contracts": "dev-main",
